@@ -22,7 +22,7 @@ A aplicação foi desenvolvida com o intuito de reforçar e consolidar os conhec
 ## Front end
 - HTML
 - CSS
-- 
+
 # Autor
 
 Fábio Moreira Genari
